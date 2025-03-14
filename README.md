@@ -32,6 +32,8 @@
 - log cli 
 ![image](./img/highest-gpa-log-cli.png)
 
+After implementing optimization to the queries, performance testing with JMeter shows an improvement of more than 20%. The optimization makes the code runs super fast and significantly reduce response times. 
+
 
 ## Reflection
 
